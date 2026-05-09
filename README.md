@@ -52,7 +52,7 @@ Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
 
-# Index.html
+# index.html
 ```
 
 <!DOCTYPE html>
